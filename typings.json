@@ -1,6 +1,7 @@
 {
   "name": "express-http-proxy",
   "main": "index.d.ts",
+  "version": "0.6.0",
   "homepage": "https://github.com/villadora/express-http-proxy",
   "devDependencies": {
     "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
