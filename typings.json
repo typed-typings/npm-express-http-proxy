@@ -1,0 +1,14 @@
+{
+  "name": "express-http-proxy",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/villadora/express-http-proxy",
+  "devDependencies": {
+    "blue-tape": "registry:npm/blue-tape#0.1.0+20160322235613"
+  },
+  "ambientDevDependencies": {
+    "node": "registry:dt/node#4.0.0+20160330064709"
+  },
+  "ambientDependencies": {
+    "express": "registry:dt/express#4.0.0+20160317120654"
+  }
+}
