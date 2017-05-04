@@ -1,4 +1,6 @@
 # Typed Express Http Proxy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/types/npm-express-http-proxy.svg)](https://greenkeeper.io/)
 The type definition for [`express-http-proxy`](https://github.com/villadora/express-http-proxy)
 
 ## LICENSE
