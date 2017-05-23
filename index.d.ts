@@ -1,7 +1,7 @@
 import * as express from 'express';
 import * as http from 'http';
 
-declare function ExpressHttpProxy(host: string, options: ExpressHttpProxy.IOptions): express.RequestHandler;
+declare function ExpressHttpProxy(host: string, options?: ExpressHttpProxy.IOptions): express.RequestHandler;
 declare namespace ExpressHttpProxy {
 	interface IOptions {
 		port?: number;
